@@ -1,4 +1,4 @@
-# King_County_Real_Estate_Regression_Analysis
+# King County Real Estate Regression Analysis
 ## Software Used: 
 SAS ENTERPRISE GUIDE AND SAS BASE 9.4. 
 
